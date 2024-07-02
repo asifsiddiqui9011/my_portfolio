@@ -29,7 +29,7 @@ const siteProps = {
   email: "asifsiddiqui9011@gmail.com",
   gitHub: "asifsiddiqui9011",
   instagram: "as___if___sidd",
-  linkedIn: "siddiquiasifahmed9011",
+  linkedIn: "siddiqui-asif-ahmed-037513311",
   medium: "",
   twitter: "",
   youTube: "",

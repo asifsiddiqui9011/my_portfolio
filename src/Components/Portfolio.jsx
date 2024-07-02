@@ -35,7 +35,14 @@ const projectList = [
     description:
       "Spotify clone using CSS and HTML only ",
     url: "https://github.com/asifsiddiqui9011/spotify_clone",
+  },
+  {
+    title: "NewsApp web application for News articles 🎉",
+    description:
+      "It is a News articles website build using ReactJS as a frontend framework, It fecthes news articles from the GnewsApi server and display onto the app as pe the category selected by the users such as Geeneral, Business, Technology, Entertainmet etc.. and you can aslo save some of your favourate article and visit them and click on it to see detailed news. ",
+    url: "https://news-app-flax-eight.vercel.app/",
   }
+
 ];
 
 const Portfolio = () => {

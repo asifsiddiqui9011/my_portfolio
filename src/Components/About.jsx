@@ -35,8 +35,16 @@ const skillsList = [
   "ExpressJS",
   "ReactJS",
   "NodeJS",
-  "HTML,CSS",
+  "HTML",
+  "CSS",
   "Javascript",
+  "MySql",
+  "Python",
+  "C++",
+  "Bootstrap",
+  "Tailwind CSS",
+  "Git",
+  "GitHub",
 ];
 
 /**
